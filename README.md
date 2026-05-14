@@ -32,7 +32,6 @@ The system follows a **three-tier architecture**:
 3. **Data Access Layer**: MySQL database for managing donor/recipient records and blood bank data.
 ## Screenshots
 
-### User Authentication
 
 #### data flow diagram
 ![data flow diagram](ss/bloodbank_dfd.png)
