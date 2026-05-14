@@ -36,6 +36,9 @@ The system follows a **three-tier architecture**:
 #### data flow diagram
 ![data flow diagram](ss/bloodbank_dfd.png)
 
+#### data flow diagram
+![entity-relationship-diagram](ss/bloodbank_erd.png)
+
 ## Installation Guide
 1. **Clone the Repository:**
    
