@@ -30,6 +30,12 @@ The system follows a **three-tier architecture**:
 1. **Presentation Layer**: Web UI built using HTML, CSS, and JavaScript.
 2. **Business Logic Layer**: PHP scripts for handling authentication, request matching, and notifications.
 3. **Data Access Layer**: MySQL database for managing donor/recipient records and blood bank data.
+## Screenshots
+
+### User Authentication
+
+#### data flow diagram
+![data flow diagram](ss/bloodbank_dfd.png)
 
 ## Installation Guide
 1. **Clone the Repository:**
@@ -54,6 +60,7 @@ The system follows a **three-tier architecture**:
 - Follow **coding standards** and document any new features.
 
 ## License
+This project is developed for educational and academic purposes.
 
 
 ## Contact
